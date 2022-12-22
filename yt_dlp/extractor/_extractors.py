@@ -1629,6 +1629,7 @@ from .scte import (
 )
 from .scrolller import ScrolllerIE
 from .seeker import SeekerIE
+from .sejmgovpl import SejmGovPlIE
 from .senategov import SenateISVPIE, SenateGovIE
 from .sendtonews import SendtoNewsIE
 from .servus import ServusIE
